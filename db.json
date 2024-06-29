@@ -1,0 +1,280 @@
+{
+  "hotels": [
+    {
+		id: 0,
+		name: 'Hotel 1',
+		image: 'images/hotel1.png',
+		category: 'hotel',
+		label: 'Hot',
+		country: 'viet-nam',
+		state: 'ho-chi-minh',
+		price: 300.99,
+		featured: true,
+		shortDescription: 'This is hotel 1.',
+		description: 'This is hotel 1 description.'
+	},
+	{
+		id: 1,
+		name: 'Hotel 2',
+		image: 'images/hotel2.png',
+		category: '',
+		label: 'Hot',
+		country: 'viet-nam',
+		state: 'da-lat',
+		price: '250.99',
+		featured: false,
+		shortDescription: 'This is hotel 2.',
+		description: 'This is hotel 2 description.'
+	},
+	{
+		id: 2,
+		name: 'Hotel 3',
+		image: 'images/hotel3.png',
+		category: '',
+		label: 'Hot',
+		country: 'viet-nam',
+		state: 'da-nang',
+		price: '200.99',
+		featured: false,
+		shortDescription: 'This is hotel 3.',
+		description: 'This is hotel 3 description.'
+	},
+	{
+		id: 3,
+		name: 'Hotel 4',
+		image: 'images/hotel4.png',
+		category: 'hotel',
+		label: '',
+		country: 'viet-nam',
+		state: 'vung-tau',
+		price: '150.99',
+		featured: false,
+		shortDescription: 'This is hotel 4.',
+		description: 'This is hotel 4 description.'
+	}
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "hotelId": 0,
+      "rating": 5,
+      "comment": "Amazing stay! The service was top-notch and the rooms were spotless.",
+      "author": "John Lemon",
+      "date": "2022-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "hotelId": 0,
+      "rating": 4,
+      "comment": "Great experience overall. My only complaint is the breakfast could be better.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "hotelId": 0,
+      "rating": 3,
+      "comment": "The hotel was okay, but it didn't live up to the hype.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "hotelId": 0,
+      "rating": 4,
+      "comment": "Nice place to stay, would definitely come back again!",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "hotelId": 0,
+      "rating": 2,
+      "comment": "Not worth the price. The rooms were small and the staff were not very friendly.",
+      "author": "25 Cent",
+      "date": "2022-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "hotelId": 1,
+      "rating": 5,
+      "comment": "Fantastic hotel! The view was incredible and the staff went above and beyond.",
+      "author": "John Lemon",
+      "date": "2022-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "hotelId": 1,
+      "rating": 4,
+      "comment": "Very good stay, but the WiFi was a bit slow.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "hotelId": 1,
+      "rating": 3,
+      "comment": "Average experience. Nothing stood out.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "hotelId": 1,
+      "rating": 4,
+      "comment": "Good hotel with nice amenities. Will recommend to friends.",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "hotelId": 1,
+      "rating": 2,
+      "comment": "The room was noisy and the bed was uncomfortable.",
+      "author": "25 Cent",
+      "date": "2022-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "hotelId": 2,
+      "rating": 5,
+      "comment": "Exceptional service and beautiful decor. Highly recommend!",
+      "author": "John Lemon",
+      "date": "2022-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "hotelId": 2,
+      "rating": 4,
+      "comment": "Great location and friendly staff. Would stay again.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "hotelId": 2,
+      "rating": 3,
+      "comment": "The stay was fine, but nothing special.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "hotelId": 2,
+      "rating": 4,
+      "comment": "Lovely hotel with a nice atmosphere. Enjoyed my stay.",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "hotelId": 2,
+      "rating": 2,
+      "comment": "The facilities were outdated and the service was slow.",
+      "author": "25 Cent",
+      "date": "2022-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "hotelId": 3,
+      "rating": 5,
+      "comment": "Perfect getaway! The spa services were amazing.",
+      "author": "John Lemon",
+      "date": "2022-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "hotelId": 3,
+      "rating": 4,
+      "comment": "Really enjoyed my stay, but the pool was a bit crowded.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "hotelId": 3,
+      "rating": 3,
+      "comment": "It was an average stay. Not bad, but not great either.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "hotelId": 3,
+      "rating": 4,
+      "comment": "Nice place with good service. Would visit again.",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "hotelId": 3,
+      "rating": 2,
+      "comment": "Was disappointed with the cleanliness of the room.",
+      "author": "25 Cent",
+      "date": "2022-12-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "David Nguyen",
+      "image": "images/user.png",
+      "designation": "General Manager",
+      "abbr": "GM",
+      "featured": true,
+      "description": "David Nguyen leads our hotel with a deep understanding of guest needs and operational excellence. With over 15 years in hotel management, he ensures every guest enjoys a seamless and memorable stay."
+    },
+    {
+      "id": 1,
+      "name": "Sophia Lee",
+      "image": "images/user.png",
+      "designation": "Director of Guest Relations",
+      "abbr": "DGR",
+      "featured": false,
+      "description": "Sophia Lee oversees guest relations, ensuring personalized service and exceeding guest expectations. With a background in hospitality management, she ensures our guests feel welcomed and valued throughout their stay."
+    },
+    {
+      "id": 2,
+      "name": "Michael Johnson",
+      "image": "images/user.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "featured": false,
+      "description": "Michael Johnson is our Executive Chef, known for his culinary creativity and dedication to using local ingredients. He crafts menus that showcase the region’s flavors, offering guests a delightful dining experience."
+    },
+    {
+      "id": 3,
+      "name": "Emily Wang",
+      "image": "images/user.png",
+      "designation": "Director of Operations",
+      "abbr": "DO",
+      "featured": false,
+      "description": "Emily Wang oversees daily operations, ensuring efficient and smooth functioning across all departments. With a focus on quality and service excellence, she ensures our hotel operations run seamlessly."
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
