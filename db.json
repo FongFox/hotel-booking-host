@@ -1,57 +1,57 @@
 {
   "hotels": [
     {
-		id: 0,
-		name: 'Hotel 1',
-		image: 'images/hotel1.png',
-		category: 'hotel',
-		label: 'Hot',
-		country: 'viet-nam',
-		state: 'ho-chi-minh',
-		price: 300.99,
-		featured: true,
-		shortDescription: 'This is hotel 1.',
-		description: 'This is hotel 1 description.'
-	},
-	{
-		id: 1,
-		name: 'Hotel 2',
-		image: 'images/hotel2.png',
-		category: '',
-		label: 'Hot',
-		country: 'viet-nam',
-		state: 'da-lat',
-		price: '250.99',
-		featured: false,
-		shortDescription: 'This is hotel 2.',
-		description: 'This is hotel 2 description.'
-	},
-	{
-		id: 2,
-		name: 'Hotel 3',
-		image: 'images/hotel3.png',
-		category: '',
-		label: 'Hot',
-		country: 'viet-nam',
-		state: 'da-nang',
-		price: '200.99',
-		featured: false,
-		shortDescription: 'This is hotel 3.',
-		description: 'This is hotel 3 description.'
-	},
-	{
-		id: 3,
-		name: 'Hotel 4',
-		image: 'images/hotel4.png',
-		category: 'hotel',
-		label: '',
-		country: 'viet-nam',
-		state: 'vung-tau',
-		price: '150.99',
-		featured: false,
-		shortDescription: 'This is hotel 4.',
-		description: 'This is hotel 4 description.'
-	}
+      "id": 0,
+      "name": "Hotel 1",
+      "image": "images/hotel1.png",
+      "category": "hotel",
+      "label": "Hot",
+      "country": "viet-nam",
+      "state": "ho-chi-minh",
+      "price": 300.99,
+      "featured": true,
+      "shortDescription": "This is hotel 1.",
+      "description": "This is hotel 1 description."
+    },
+    {
+      "id": 1,
+      "name": "Hotel 2",
+      "image": "images/hotel2.png",
+      "category": "",
+      "label": "Hot",
+      "country": "viet-nam",
+      "state": "da-lat",
+      "price": 250.99,
+      "featured": false,
+      "shortDescription": "This is hotel 2.",
+      "description": "This is hotel 2 description."
+    },
+    {
+      "id": 2,
+      "name": "Hotel 3",
+      "image": "images/hotel3.png",
+      "category": "",
+      "label": "Hot",
+      "country": "viet-nam",
+      "state": "da-nang",
+      "price": 200.99,
+      "featured": false,
+      "shortDescription": "This is hotel 3.",
+      "description": "This is hotel 3 description."
+    },
+    {
+      "id": 3,
+      "name": "Hotel 4",
+      "image": "images/hotel4.png",
+      "category": "hotel",
+      "label": "",
+      "country": "viet-nam",
+      "state": "vung-tau",
+      "price": 150.99,
+      "featured": false,
+      "shortDescription": "This is hotel 4.",
+      "description": "This is hotel 4 description."
+    }
   ],
   "comments": [
     {
