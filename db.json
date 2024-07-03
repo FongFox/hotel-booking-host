@@ -2,55 +2,179 @@
   "hotels": [
     {
       "id": 0,
-      "name": "Hotel 1",
-      "image": "images/hotel1.png",
-      "category": "hotel",
-      "label": "Hot",
+      "name": "Hotel Majestic Saigon",
+      "images": [
+        "images/HotelMajesticSaigon/MajesticSaigon1.png",
+        "images/HotelMajesticSaigon/MajesticSaigon2.png",
+        "images/HotelMajesticSaigon/MajesticSaigon3.png"
+      ],
       "country": "viet-nam",
       "state": "ho-chi-minh",
       "price": 300.99,
       "featured": true,
-      "shortDescription": "This is hotel 1.",
-      "description": "This is hotel 1 description."
+      "shortDescription": "A historic hotel in the heart of Saigon.",
+      "description": "Hotel Majestic Saigon offers luxurious accommodations and stunning views of the Saigon River. Established in 1925, it is a landmark of the city.",
+      "address": "1 Dong Khoi Street, District 1, Ho Chi Minh City, Vietnam"
     },
     {
       "id": 1,
-      "name": "Hotel 2",
-      "image": "images/hotel2.png",
-      "category": "",
-      "label": "Hot",
+      "name": "Dalat Palace Heritage Hotel",
+      "images": [
+        "images/DalatPalaceHeritageHotel/DalatPalaceHeritage1.png",
+        "images/DalatPalaceHeritageHotel/DalatPalaceHeritage2.png",
+        "images/DalatPalaceHeritageHotel/DalatPalaceHeritage3.png"
+      ],
       "country": "viet-nam",
       "state": "da-lat",
       "price": 250.99,
       "featured": false,
-      "shortDescription": "This is hotel 2.",
-      "description": "This is hotel 2 description."
+      "shortDescription": "An elegant hotel overlooking Xuan Huong Lake.",
+      "description": "Dalat Palace Heritage Hotel combines French colonial style with modern amenities, providing guests with a unique and luxurious experience.",
+      "address": "12 Tran Phu Street, Ward 3, Da Lat, Vietnam"
     },
     {
       "id": 2,
-      "name": "Hotel 3",
-      "image": "images/hotel3.png",
-      "category": "",
-      "label": "Hot",
+      "name": "Fusion Suites Da Nang",
+      "images": [
+        "images/FusionSuitesDaNang/FusionSuitesDaNang1.png",
+        "images/FusionSuitesDaNang/FusionSuitesDaNang2.png",
+        "images/FusionSuitesDaNang/FusionSuitesDaNang3.png"
+      ],
       "country": "viet-nam",
       "state": "da-nang",
       "price": 200.99,
       "featured": false,
-      "shortDescription": "This is hotel 3.",
-      "description": "This is hotel 3 description."
+      "shortDescription": "A modern suite hotel with beachfront views.",
+      "description": "Fusion Suites Da Nang offers contemporary suites and a range of wellness facilities, perfect for a relaxing beachside stay.",
+      "address": "An Cu 5 Residential Area, Phuoc My Ward, Son Tra District, Da Nang, Vietnam"
     },
     {
       "id": 3,
-      "name": "Hotel 4",
-      "image": "images/hotel4.png",
-      "category": "hotel",
-      "label": "",
+      "name": "Imperial Hotel Vung Tau",
+      "images": [
+        "images/ImperialHotelVungTau/ImperialHotelVungTau1.png",
+        "images/ImperialHotelVungTau/ImperialHotelVungTau2.png",
+        "images/ImperialHotelVungTau/ImperialHotelVungTau3.png"
+      ],
       "country": "viet-nam",
       "state": "vung-tau",
       "price": 150.99,
       "featured": false,
-      "shortDescription": "This is hotel 4.",
-      "description": "This is hotel 4 description."
+      "shortDescription": "A luxury hotel with Victorian architecture.",
+      "description": "Imperial Hotel Vung Tau combines elegant Victorian design with modern amenities, offering guests a luxurious stay with beachfront access.",
+      "address": "159 Thuy Van Street, Thang Tam Ward, Vung Tau, Vietnam"
+    },
+    {
+      "id": 4,
+      "name": "Vinpearl Resort & Spa Phu Quoc",
+      "images": [
+        "images/VinpearlResortPhuQuoc/VinpearlResortPhuQuoc1.png",
+        "images/VinpearlResortPhuQuoc/VinpearlResortPhuQuoc2.png",
+        "images/VinpearlResortPhuQuoc/VinpearlResortPhuQuoc3.png"
+      ],
+      "country": "viet-nam",
+      "state": "phu-quoc",
+      "price": 400.99,
+      "featured": true,
+      "shortDescription": "A beachfront resort with extensive facilities.",
+      "description": "Vinpearl Resort & Spa Phu Quoc offers luxurious accommodations, multiple dining options, and a range of recreational activities for a perfect island getaway.",
+      "address": "Bai Dai Area, Ganh Dau Commune, Phu Quoc Island, Kien Giang, Vietnam"
+    },
+    {
+      "id": 5,
+      "name": "La Siesta Hotel & Spa",
+      "images": [
+        "images/LaSiestaHotel/LaSiestaHotel1.png",
+        "images/LaSiestaHotel/LaSiestaHotel2.png",
+        "images/LaSiestaHotel/LaSiestaHotel3.png"
+      ],
+      "country": "viet-nam",
+      "state": "hanoi",
+      "price": 180.99,
+      "featured": false,
+      "shortDescription": "A charming boutique hotel in the Old Quarter.",
+      "description": "La Siesta Hotel & Spa offers a cozy and intimate stay with excellent service and a central location in Hanoi's historic Old Quarter.",
+      "address": "94 Ma May Street, Hoan Kiem District, Hanoi, Vietnam"
+    },
+    {
+      "id": 6,
+      "name": "Mia Resort Nha Trang",
+      "images": [
+        "images/MiaResortNhaTrang/MiaResortNhaTrang1.png",
+        "images/MiaResortNhaTrang/MiaResortNhaTrang2.png",
+        "images/MiaResortNhaTrang/MiaResortNhaTrang3.png"
+      ],
+      "country": "viet-nam",
+      "state": "nha-trang",
+      "price": 350.99,
+      "featured": true,
+      "shortDescription": "An eco-friendly resort with stunning views.",
+      "description": "Mia Resort Nha Trang is known for its eco-friendly practices and offers luxurious villas and suites with breathtaking ocean views.",
+      "address": "Bai Dong, Cam Hai Dong Commune, Cam Lam District, Nha Trang, Vietnam"
+    },
+    {
+      "id": 7,
+      "name": "InterContinental Hanoi Landmark72",
+      "images": [
+        "images/InterContinentalHanoiLandmark72/InterContinentalHanoiLandmark72(1).png",
+        "images/InterContinentalHanoiLandmark72/InterContinentalHanoiLandmark72(2).png",
+        "images/InterContinentalHanoiLandmark72/InterContinentalHanoiLandmark72(3).png"
+      ],
+      "country": "viet-nam",
+      "state": "hanoi",
+      "price": 320.99,
+      "featured": true,
+      "shortDescription": "A luxury hotel in Hanoi's tallest building.",
+      "description": "InterContinental Hanoi Landmark72 offers panoramic city views, luxurious rooms, and top-notch dining options in Vietnam's tallest building.",
+      "address": "Keangnam Hanoi Landmark Tower, Pham Hung Street, Nam Tu Liem District, Hanoi, Vietnam"
+    },
+    {
+      "id": 8,
+      "name": "Amanoi Resort",
+      "images": [
+        "images/AmanoiResort/AmanoiResort1.png",
+        "images/AmanoiResort/AmanoiResort2.png",
+        "images/AmanoiResort/AmanoiResort3.png"
+      ],
+      "country": "viet-nam",
+      "state": "ninh-thuan",
+      "price": 800.99,
+      "featured": true,
+      "shortDescription": "A secluded luxury resort in Nui Chua National Park.",
+      "description": "Amanoi Resort offers a tranquil retreat with luxurious villas, stunning views, and exclusive access to a pristine private beach.",
+      "address": "Vinh Hy Village, Ninh Hai District, Ninh Thuan, Vietnam"
+    },
+    {
+      "id": 9,
+      "name": "Anantara Hoi An Resort",
+      "images": [
+        "images/AnantaraHoiAnResort/AnantaraHoiAnResort1.png",
+        "images/AnantaraHoiAnResort/AnantaraHoiAnResort2.png",
+        "images/AnantaraHoiAnResort/AnantaraHoiAnResort3.png"
+      ],
+      "country": "viet-nam",
+      "state": "hoi-an",
+      "price": 280.99,
+      "featured": false,
+      "shortDescription": "A charming riverside resort near Hoi An Ancient Town.",
+      "description": "Anantara Hoi An Resort combines colonial-style architecture with modern amenities, offering a peaceful riverside retreat close to Hoi An's historic attractions.",
+      "address": "1 Pham Hong Thai Street, Hoi An, Quang Nam, Vietnam"
+    },
+    {
+      "id": 10,
+      "name": "Six Senses Con Dao",
+      "images": [
+        "images/SixSensesConDao/SixSensesConDao1.png",
+        "images/SixSensesConDao/SixSensesConDao2.png",
+        "images/SixSensesConDao/SixSensesConDao3.png"
+      ],
+      "country": "viet-nam",
+      "state": "con-dao",
+      "price": 600.99,
+      "featured": true,
+      "shortDescription": "An eco-friendly luxury resort on Con Dao Island.",
+      "description": "Six Senses Con Dao offers sustainable luxury in a pristine setting, with private villas, beautiful beaches, and a focus on wellness and conservation.",
+      "address": "Dat Doc Beach, Con Dao District, Ba Ria - Vung Tau, Vietnam"
     }
   ],
   "comments": [
@@ -58,161 +182,305 @@
       "id": 0,
       "hotelId": 0,
       "rating": 5,
-      "comment": "Amazing stay! The service was top-notch and the rooms were spotless.",
-      "author": "John Lemon",
+      "comment": "Wonderful stay! The staff was exceptionally helpful and the rooms were immaculate. The historic ambiance added a special touch.",
+      "author": "James Carter",
       "date": "2022-10-16T17:57:28.556094Z"
     },
     {
       "id": 1,
       "hotelId": 0,
       "rating": 4,
-      "comment": "Great experience overall. My only complaint is the breakfast could be better.",
-      "author": "Paul McVites",
+      "comment": "Overall a great experience. The breakfast could be improved, but the river view made up for it.",
+      "author": "Alice Johnson",
       "date": "2023-09-05T17:57:28.556094Z"
     },
     {
       "id": 2,
       "hotelId": 0,
       "rating": 3,
-      "comment": "The hotel was okay, but it didn't live up to the hype.",
-      "author": "Michael Jaikishan",
+      "comment": "The hotel was decent, but it didn't quite meet my expectations. The room felt a bit dated.",
+      "author": "Raj Patel",
       "date": "2023-02-13T17:57:28.556094Z"
     },
     {
       "id": 3,
       "hotelId": 0,
       "rating": 4,
-      "comment": "Nice place to stay, would definitely come back again!",
-      "author": "Ringo Starry",
+      "comment": "Nice place to stay. Would definitely return! The rooftop bar was fantastic.",
+      "author": "Sarah Kim",
       "date": "2023-12-02T17:57:28.556094Z"
     },
     {
       "id": 4,
       "hotelId": 0,
       "rating": 2,
-      "comment": "Not worth the price. The rooms were small and the staff were not very friendly.",
-      "author": "25 Cent",
+      "comment": "Not worth the price. The rooms were small and the staff wasn't very friendly. Expected more from a historic hotel.",
+      "author": "Mark Thompson",
       "date": "2022-12-02T17:57:28.556094Z"
     },
     {
       "id": 5,
       "hotelId": 1,
       "rating": 5,
-      "comment": "Fantastic hotel! The view was incredible and the staff went above and beyond.",
-      "author": "John Lemon",
+      "comment": "Fantastic hotel! The view was incredible and the staff went above and beyond. Loved the French colonial style.",
+      "author": "Laura Green",
       "date": "2022-10-16T17:57:28.556094Z"
     },
     {
       "id": 6,
       "hotelId": 1,
       "rating": 4,
-      "comment": "Very good stay, but the WiFi was a bit slow.",
-      "author": "Paul McVites",
+      "comment": "Very good stay, but the WiFi was a bit slow. The garden view was lovely though.",
+      "author": "Brian White",
       "date": "2023-09-05T17:57:28.556094Z"
     },
     {
       "id": 7,
       "hotelId": 1,
       "rating": 3,
-      "comment": "Average experience. Nothing stood out.",
-      "author": "Michael Jaikishan",
+      "comment": "Average experience. Nothing stood out. The room was comfortable but not remarkable.",
+      "author": "Emily Davis",
       "date": "2023-02-13T17:57:28.556094Z"
     },
     {
       "id": 8,
       "hotelId": 1,
       "rating": 4,
-      "comment": "Good hotel with nice amenities. Will recommend to friends.",
-      "author": "Ringo Starry",
+      "comment": "Good hotel with nice amenities. Will recommend to friends. The spa was particularly nice.",
+      "author": "Anthony Brown",
       "date": "2023-12-02T17:57:28.556094Z"
     },
     {
       "id": 9,
       "hotelId": 1,
       "rating": 2,
-      "comment": "The room was noisy and the bed was uncomfortable.",
-      "author": "25 Cent",
+      "comment": "The room was noisy and the bed was uncomfortable. Didn't sleep well during my stay.",
+      "author": "Sandra Miller",
       "date": "2022-12-02T17:57:28.556094Z"
     },
     {
       "id": 10,
       "hotelId": 2,
       "rating": 5,
-      "comment": "Exceptional service and beautiful decor. Highly recommend!",
-      "author": "John Lemon",
+      "comment": "Exceptional service and beautiful decor. Highly recommend! The beachfront views were stunning.",
+      "author": "David Wilson",
       "date": "2022-10-16T17:57:28.556094Z"
     },
     {
       "id": 11,
       "hotelId": 2,
       "rating": 4,
-      "comment": "Great location and friendly staff. Would stay again.",
-      "author": "Paul McVites",
+      "comment": "Great location and friendly staff. Would stay again. The breakfast buffet was delicious.",
+      "author": "Jessica Martinez",
       "date": "2023-09-05T17:57:28.556094Z"
     },
     {
       "id": 12,
       "hotelId": 2,
       "rating": 3,
-      "comment": "The stay was fine, but nothing special.",
-      "author": "Michael Jaikishan",
+      "comment": "The stay was fine, but nothing special. The room was clean but lacked personality.",
+      "author": "Michael Hernandez",
       "date": "2023-02-13T17:57:28.556094Z"
     },
     {
       "id": 13,
       "hotelId": 2,
       "rating": 4,
-      "comment": "Lovely hotel with a nice atmosphere. Enjoyed my stay.",
-      "author": "Ringo Starry",
+      "comment": "Lovely hotel with a nice atmosphere. Enjoyed my stay. The pool area was relaxing.",
+      "author": "Laura Garcia",
       "date": "2023-12-02T17:57:28.556094Z"
     },
     {
       "id": 14,
       "hotelId": 2,
       "rating": 2,
-      "comment": "The facilities were outdated and the service was slow.",
-      "author": "25 Cent",
+      "comment": "The facilities were outdated and the service was slow. Expected more for the price.",
+      "author": "Robert Martinez",
       "date": "2022-12-02T17:57:28.556094Z"
     },
     {
       "id": 15,
       "hotelId": 3,
       "rating": 5,
-      "comment": "Perfect getaway! The spa services were amazing.",
-      "author": "John Lemon",
+      "comment": "Perfect getaway! The spa services were amazing. The beachfront access was a plus.",
+      "author": "Hannah Roberts",
       "date": "2022-10-16T17:57:28.556094Z"
     },
     {
       "id": 16,
       "hotelId": 3,
       "rating": 4,
-      "comment": "Really enjoyed my stay, but the pool was a bit crowded.",
-      "author": "Paul McVites",
+      "comment": "Really enjoyed my stay, but the pool was a bit crowded. The Victorian decor was charming though.",
+      "author": "Joshua Lee",
       "date": "2023-09-05T17:57:28.556094Z"
     },
     {
       "id": 17,
       "hotelId": 3,
       "rating": 3,
-      "comment": "It was an average stay. Not bad, but not great either.",
-      "author": "Michael Jaikishan",
+      "comment": "It was an average stay. Not bad, but not great either. The room was clean but nothing special.",
+      "author": "Natalie Johnson",
       "date": "2023-02-13T17:57:28.556094Z"
     },
     {
       "id": 18,
       "hotelId": 3,
       "rating": 4,
-      "comment": "Nice place with good service. Would visit again.",
-      "author": "Ringo Starry",
+      "comment": "Nice place with good service. Would visit again. The location was convenient.",
+      "author": "Christopher Taylor",
       "date": "2023-12-02T17:57:28.556094Z"
     },
     {
       "id": 19,
       "hotelId": 3,
       "rating": 2,
-      "comment": "Was disappointed with the cleanliness of the room.",
-      "author": "25 Cent",
+      "comment": "Was disappointed with the cleanliness of the room. The staff seemed overwhelmed.",
+      "author": "Grace Campbell",
       "date": "2022-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 20,
+      "hotelId": 4,
+      "rating": 5,
+      "comment": "Unforgettable experience! The resort was stunning and the activities were fun.",
+      "author": "Anna Bell",
+      "date": "2023-11-20T17:57:28.556094Z"
+    },
+    {
+      "id": 21,
+      "hotelId": 4,
+      "rating": 4,
+      "comment": "Loved the beach and the pools. Some facilities were under maintenance but still great.",
+      "author": "Sam Smith",
+      "date": "2023-08-15T17:57:28.556094Z"
+    },
+    {
+      "id": 22,
+      "hotelId": 4,
+      "rating": 3,
+      "comment": "Nice resort but a bit pricey for what it offers. The food was good but not exceptional.",
+      "author": "Lee Wong",
+      "date": "2023-05-10T17:57:28.556094Z"
+    },
+    {
+      "id": 23,
+      "hotelId": 5,
+      "rating": 5,
+      "comment": "Charming boutique hotel with excellent service. The spa treatments were fantastic.",
+      "author": "Emma Stone",
+      "date": "2023-07-22T17:57:28.556094Z"
+    },
+    {
+      "id": 24,
+      "hotelId": 5,
+      "rating": 4,
+      "comment": "Great location in the Old Quarter. Rooms were cozy and well-decorated.",
+      "author": "Tom Hardy",
+      "date": "2023-03-30T17:57:28.556094Z"
+    },
+    {
+      "id": 25,
+      "hotelId": 6,
+      "rating": 5,
+      "comment": "Beautiful eco-friendly resort with breathtaking views. Loved every minute of it.",
+      "author": "Jessica Alba",
+      "date": "2023-01-12T17:57:28.556094Z"
+    },
+    {
+      "id": 26,
+      "hotelId": 6,
+      "rating": 4,
+      "comment": "Wonderful place, but the transport to and from the hotel was a bit inconvenient.",
+      "author": "Chris Hemsworth",
+      "date": "2022-12-01T17:57:28.556094Z"
+    },
+    {
+      "id": 27,
+      "hotelId": 7,
+      "rating": 5,
+      "comment": "Amazing hotel with top-notch service. The rooftop pool was a highlight.",
+      "author": "Olivia Benson",
+      "date": "2023-06-18T17:57:28.556094Z"
+    },
+    {
+      "id": 28,
+      "hotelId": 7,
+      "rating": 4,
+      "comment": "Great stay, but the gym was a bit small. Loved the breakfast selection.",
+      "author": "Ethan Wright",
+      "date": "2023-11-03T17:57:28.556094Z"
+    },
+    {
+      "id": 29,
+      "hotelId": 7,
+      "rating": 3,
+      "comment": "It was okay. The room was clean but nothing special. Expected more for the price.",
+      "author": "Sophia Turner",
+      "date": "2023-01-15T17:57:28.556094Z"
+    },
+    {
+      "id": 30,
+      "hotelId": 8,
+      "rating": 5,
+      "comment": "Wonderful resort! The private beach was beautiful and the staff were very accommodating.",
+      "author": "Mason Collins",
+      "date": "2023-03-22T17:57:28.556094Z"
+    },
+    {
+      "id": 31,
+      "hotelId": 8,
+      "rating": 4,
+      "comment": "Really enjoyed my stay. The pool area was great, but the room service was a bit slow.",
+      "author": "Sophia Carter",
+      "date": "2023-08-10T17:57:28.556094Z"
+    },
+    {
+      "id": 32,
+      "hotelId": 9,
+      "rating": 5,
+      "comment": "Excellent hotel with great amenities. The spa treatments were very relaxing.",
+      "author": "Emma Wilson",
+      "date": "2023-05-12T17:57:28.556094Z"
+    },
+    {
+      "id": 33,
+      "hotelId": 9,
+      "rating": 4,
+      "comment": "Nice place with friendly staff. The breakfast was good but could use more variety.",
+      "author": "Liam Brown",
+      "date": "2023-07-25T17:57:28.556094Z"
+    },
+    {
+      "id": 34,
+      "hotelId": 10,
+      "rating": 5,
+      "comment": "Fantastic experience! The rooms were spacious and the view was stunning.",
+      "author": "Isabella Moore",
+      "date": "2023-09-15T17:57:28.556094Z"
+    },
+    {
+      "id": 35,
+      "hotelId": 10,
+      "rating": 4,
+      "comment": "Loved the location and the staff was very helpful. The only downside was the noisy street at night.",
+      "author": "Benjamin Harris",
+      "date": "2023-11-06T17:57:28.556094Z"
+    },
+    {
+      "id": 36,
+      "hotelId": 10,
+      "rating": 3,
+      "comment": "Good stay, but the room was a bit outdated. The view made up for it though.",
+      "author": "Mia Clark",
+      "date": "2023-04-18T17:57:28.556094Z"
+    }
+  ],
+  "presentations": [
+    {
+      "id": 0,
+      "name": "Home Page Background Image",
+      "image": "images/presentation.png",
+      "featured": true
     }
   ],
   "promotions": [
@@ -220,17 +488,14 @@
       "id": 0,
       "name": "Weekend Grand Buffet",
       "image": "images/buffet.png",
-      "label": "New",
-      "price": "19.99",
-      "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person."
+      "featured": true
     }
   ],
   "leaders": [
     {
       "id": 0,
       "name": "David Nguyen",
-      "image": "images/user.png",
+      "image": "images/DavidNguyen.png",
       "designation": "General Manager",
       "abbr": "GM",
       "featured": true,
@@ -239,7 +504,7 @@
     {
       "id": 1,
       "name": "Sophia Lee",
-      "image": "images/user.png",
+      "image": "images/SophiaLee.png",
       "designation": "Director of Guest Relations",
       "abbr": "DGR",
       "featured": false,
@@ -248,7 +513,7 @@
     {
       "id": 2,
       "name": "Michael Johnson",
-      "image": "images/user.png",
+      "image": "images/MichaelJohnson.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": false,
@@ -257,7 +522,7 @@
     {
       "id": 3,
       "name": "Emily Wang",
-      "image": "images/user.png",
+      "image": "images/EmilyWang.png",
       "designation": "Director of Operations",
       "abbr": "DO",
       "featured": false,
@@ -266,13 +531,13 @@
   ],
   "feedback": [
     {
-      "firstname": "fdas",
-      "lastname": "afds",
-      "telnum": "134113",
-      "email": "dafdads@daffas.dfdafd",
+      "firstname": "Eric",
+      "lastname": "Pham",
+      "telnum": "138429342",
+      "email": "askHotelBooking@gmail.com",
       "agree": true,
       "contactType": "Email",
-      "message": "afadsfds",
+      "message": "Feed Back",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
     }
