@@ -3,11 +3,7 @@
     {
       "id": 0,
       "name": "Hotel Majestic Saigon",
-      "images": [
-        "images/MajesticSaigon1.png",
-        "images/MajesticSaigon2.png",
-        "images/MajesticSaigon3.png"
-      ],
+      "image": "images/MajesticSaigon.png",
       "country": "viet-nam",
       "state": "ho-chi-minh",
       "price": 300.99,
@@ -19,11 +15,7 @@
     {
       "id": 1,
       "name": "Dalat Palace Heritage Hotel",
-      "images": [
-        "images/DalatPalaceHeritage1.png",
-        "images/DalatPalaceHeritage2.png",
-        "images/DalatPalaceHeritage3.png"
-      ],
+      "image": "images/DalatPalaceHeritage.png",
       "country": "viet-nam",
       "state": "da-lat",
       "price": 250.99,
@@ -35,11 +27,7 @@
     {
       "id": 2,
       "name": "Fusion Suites Da Nang",
-      "images": [
-        "images/FusionSuitesDaNang1.png",
-        "images/FusionSuitesDaNang2.png",
-        "images/FusionSuitesDaNang3.png"
-      ],
+      "image": "images/FusionSuitesDaNang.png",
       "country": "viet-nam",
       "state": "da-nang",
       "price": 200.99,
@@ -51,11 +39,7 @@
     {
       "id": 3,
       "name": "Imperial Hotel Vung Tau",
-      "images": [
-        "images/ImperialHotelVungTau1.png",
-        "images/ImperialHotelVungTau2.png",
-        "images/ImperialHotelVungTau3.png"
-      ],
+      "image": "images/ImperialHotelVungTau.png",
       "country": "viet-nam",
       "state": "vung-tau",
       "price": 150.99,
@@ -67,11 +51,7 @@
     {
       "id": 4,
       "name": "Vinpearl Resort & Spa Phu Quoc",
-      "images": [
-        "images/VinpearlResortPhuQuoc1.png",
-        "images/VinpearlResortPhuQuoc2.png",
-        "images/VinpearlResortPhuQuoc3.png"
-      ],
+      "image": "images/VinpearlResortPhuQuoc.png",
       "country": "viet-nam",
       "state": "phu-quoc",
       "price": 400.99,
@@ -83,11 +63,7 @@
     {
       "id": 5,
       "name": "La Siesta Hotel & Spa",
-      "images": [
-        "images/LaSiestaHotel1.png",
-        "images/LaSiestaHotel2.png",
-        "images/LaSiestaHotel3.png"
-      ],
+      "image": "images/LaSiestaHotel.png",
       "country": "viet-nam",
       "state": "hanoi",
       "price": 180.99,
@@ -99,11 +75,7 @@
     {
       "id": 6,
       "name": "Mia Resort Nha Trang",
-      "images": [
-        "images/MiaResortNhaTrang1.png",
-        "images/MiaResortNhaTrang2.png",
-        "images/MiaResortNhaTrang3.png"
-      ],
+      "image": "images/MiaResortNhaTrang.png",
       "country": "viet-nam",
       "state": "nha-trang",
       "price": 350.99,
@@ -115,11 +87,7 @@
     {
       "id": 7,
       "name": "InterContinental Hanoi Landmark72",
-      "images": [
-        "images/InterContinentalHanoiLandmark72(1).png",
-        "images/InterContinentalHanoiLandmark72(2).png",
-        "images/InterContinentalHanoiLandmark72(3).png"
-      ],
+      "image": "images/InterContinentalHanoiLandmark72.png",
       "country": "viet-nam",
       "state": "hanoi",
       "price": 320.99,
@@ -131,11 +99,7 @@
     {
       "id": 8,
       "name": "Amanoi Resort",
-      "images": [
-        "images/AmanoiResort1.png",
-        "images/AmanoiResort2.png",
-        "images/AmanoiResort3.png"
-      ],
+      "image": "images/AmanoiResort.png",
       "country": "viet-nam",
       "state": "ninh-thuan",
       "price": 800.99,
@@ -147,11 +111,7 @@
     {
       "id": 9,
       "name": "Anantara Hoi An Resort",
-      "images": [
-        "images/AnantaraHoiAnResort1.png",
-        "images/AnantaraHoiAnResort2.png",
-        "images/AnantaraHoiAnResort3.png"
-      ],
+      "image": "images/AnantaraHoiAnResort.png",
       "country": "viet-nam",
       "state": "hoi-an",
       "price": 280.99,
@@ -163,11 +123,7 @@
     {
       "id": 10,
       "name": "Six Senses Con Dao",
-      "images": [
-        "images/SixSensesConDao1.png",
-        "images/SixSensesConDao2.png",
-        "images/SixSensesConDao3.png"
-      ],
+      "image": "images/SixSensesConDao.png",
       "country": "viet-nam",
       "state": "con-dao",
       "price": 600.99,
