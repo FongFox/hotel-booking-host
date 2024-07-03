@@ -4,9 +4,15 @@
       "id": 0,
       "name": "Hotel Majestic Saigon",
       "images": [
-        "images/HotelMajesticSaigon/MajesticSaigon1.png",
-        "images/HotelMajesticSaigon/MajesticSaigon2.png",
-        "images/HotelMajesticSaigon/MajesticSaigon3.png"
+        {
+          "img1": "images/MajesticSaigon1.png"
+        },
+        {
+          "img2": "images/MajesticSaigon2.png"
+        },
+        {
+          "img3": "images/MajesticSaigon3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "ho-chi-minh",
@@ -20,9 +26,15 @@
       "id": 1,
       "name": "Dalat Palace Heritage Hotel",
       "images": [
-        "images/DalatPalaceHeritageHotel/DalatPalaceHeritage1.png",
-        "images/DalatPalaceHeritageHotel/DalatPalaceHeritage2.png",
-        "images/DalatPalaceHeritageHotel/DalatPalaceHeritage3.png"
+        {
+          "img1": "images/DalatPalaceHeritage1.png"
+        },
+        {
+          "img2": "images/DalatPalaceHeritage2.png"
+        },
+        {
+          "img3": "images/DalatPalaceHeritage3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "da-lat",
@@ -36,9 +48,15 @@
       "id": 2,
       "name": "Fusion Suites Da Nang",
       "images": [
-        "images/FusionSuitesDaNang/FusionSuitesDaNang1.png",
-        "images/FusionSuitesDaNang/FusionSuitesDaNang2.png",
-        "images/FusionSuitesDaNang/FusionSuitesDaNang3.png"
+        {
+          "img1": "images/FusionSuitesDaNang1.png"
+        },
+        {
+          "img2": "images/FusionSuitesDaNang2.png"
+        },
+        {
+          "img3": "images/FusionSuitesDaNang3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "da-nang",
@@ -52,9 +70,15 @@
       "id": 3,
       "name": "Imperial Hotel Vung Tau",
       "images": [
-        "images/ImperialHotelVungTau/ImperialHotelVungTau1.png",
-        "images/ImperialHotelVungTau/ImperialHotelVungTau2.png",
-        "images/ImperialHotelVungTau/ImperialHotelVungTau3.png"
+        {
+          "img1": "images/ImperialHotelVungTau1.png"
+        },
+        {
+          "img2": "images/ImperialHotelVungTau2.png"
+        },
+        {
+          "img3": "images/ImperialHotelVungTau3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "vung-tau",
@@ -68,9 +92,15 @@
       "id": 4,
       "name": "Vinpearl Resort & Spa Phu Quoc",
       "images": [
-        "images/VinpearlResortPhuQuoc/VinpearlResortPhuQuoc1.png",
-        "images/VinpearlResortPhuQuoc/VinpearlResortPhuQuoc2.png",
-        "images/VinpearlResortPhuQuoc/VinpearlResortPhuQuoc3.png"
+        {
+          "img1": "images/VinpearlResortPhuQuoc1.png"
+        },
+        {
+          "img2": "images/VinpearlResortPhuQuoc2.png"
+        },
+        {
+          "img3": "images/VinpearlResortPhuQuoc3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "phu-quoc",
@@ -84,9 +114,15 @@
       "id": 5,
       "name": "La Siesta Hotel & Spa",
       "images": [
-        "images/LaSiestaHotel/LaSiestaHotel1.png",
-        "images/LaSiestaHotel/LaSiestaHotel2.png",
-        "images/LaSiestaHotel/LaSiestaHotel3.png"
+        {
+          "img1": "images/LaSiestaHotel1.png"
+        },
+        {
+          "img2": "images/LaSiestaHotel2.png"
+        },
+        {
+          "img3": "images/LaSiestaHotel3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "hanoi",
@@ -100,9 +136,15 @@
       "id": 6,
       "name": "Mia Resort Nha Trang",
       "images": [
-        "images/MiaResortNhaTrang/MiaResortNhaTrang1.png",
-        "images/MiaResortNhaTrang/MiaResortNhaTrang2.png",
-        "images/MiaResortNhaTrang/MiaResortNhaTrang3.png"
+        {
+          "img1": "images/MiaResortNhaTrang1.png"
+        },
+        {
+          "img2": "images/MiaResortNhaTrang2.png"
+        },
+        {
+          "img3": "images/MiaResortNhaTrang3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "nha-trang",
@@ -116,9 +158,15 @@
       "id": 7,
       "name": "InterContinental Hanoi Landmark72",
       "images": [
-        "images/InterContinentalHanoiLandmark72/InterContinentalHanoiLandmark72(1).png",
-        "images/InterContinentalHanoiLandmark72/InterContinentalHanoiLandmark72(2).png",
-        "images/InterContinentalHanoiLandmark72/InterContinentalHanoiLandmark72(3).png"
+        {
+          "img1": "images/InterContinentalHanoiLandmark72(1).png"
+        },
+        {
+          "img2": "images/InterContinentalHanoiLandmark72(2).png"
+        },
+        {
+          "img3": "images/InterContinentalHanoiLandmark72(3).png"
+        }
       ],
       "country": "viet-nam",
       "state": "hanoi",
@@ -132,9 +180,15 @@
       "id": 8,
       "name": "Amanoi Resort",
       "images": [
-        "images/AmanoiResort/AmanoiResort1.png",
-        "images/AmanoiResort/AmanoiResort2.png",
-        "images/AmanoiResort/AmanoiResort3.png"
+        {
+          "img1": "images/AmanoiResort1.png"
+        },
+        {
+          "img2": "images/AmanoiResort2.png"
+        },
+        {
+          "img3": "images/AmanoiResort3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "ninh-thuan",
@@ -148,9 +202,15 @@
       "id": 9,
       "name": "Anantara Hoi An Resort",
       "images": [
-        "images/AnantaraHoiAnResort/AnantaraHoiAnResort1.png",
-        "images/AnantaraHoiAnResort/AnantaraHoiAnResort2.png",
-        "images/AnantaraHoiAnResort/AnantaraHoiAnResort3.png"
+        {
+          "img1": "images/AnantaraHoiAnResort1.png"
+        },
+        {
+          "img2": "images/AnantaraHoiAnResort2.png"
+        },
+        {
+          "img3": "images/AnantaraHoiAnResort3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "hoi-an",
@@ -164,9 +224,15 @@
       "id": 10,
       "name": "Six Senses Con Dao",
       "images": [
-        "images/SixSensesConDao/SixSensesConDao1.png",
-        "images/SixSensesConDao/SixSensesConDao2.png",
-        "images/SixSensesConDao/SixSensesConDao3.png"
+        {
+          "img1": "images/SixSensesConDao1.png"
+        },
+        {
+          "img2": "images/SixSensesConDao2.png"
+        },
+        {
+          "img3": "images/SixSensesConDao3.png"
+        }
       ],
       "country": "viet-nam",
       "state": "con-dao",
