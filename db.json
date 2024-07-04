@@ -485,6 +485,11 @@
       "description": "Emily Wang oversees daily operations, ensuring efficient and smooth functioning across all departments. With a focus on quality and service excellence, she ensures our hotel operations run seamlessly."
     }
   ],
+  "users": [
+    {
+      "img": "images/user.png"
+    }
+  ]
   "feedback": [
     {
       "firstname": "Eric",
