@@ -140,7 +140,8 @@
       "rating": 5,
       "comment": "Wonderful stay! The staff was exceptionally helpful and the rooms were immaculate. The historic ambiance added a special touch.",
       "author": "James Carter",
-      "date": "2022-10-16T17:57:28.556094Z"
+      "date": "2022-10-16T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 1,
@@ -148,7 +149,8 @@
       "rating": 4,
       "comment": "Overall a great experience. The breakfast could be improved, but the river view made up for it.",
       "author": "Alice Johnson",
-      "date": "2023-09-05T17:57:28.556094Z"
+      "date": "2023-09-05T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 2,
@@ -156,7 +158,8 @@
       "rating": 3,
       "comment": "The hotel was decent, but it didn't quite meet my expectations. The room felt a bit dated.",
       "author": "Raj Patel",
-      "date": "2023-02-13T17:57:28.556094Z"
+      "date": "2023-02-13T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 3,
@@ -164,7 +167,8 @@
       "rating": 4,
       "comment": "Nice place to stay. Would definitely return! The rooftop bar was fantastic.",
       "author": "Sarah Kim",
-      "date": "2023-12-02T17:57:28.556094Z"
+      "date": "2023-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 4,
@@ -172,7 +176,8 @@
       "rating": 2,
       "comment": "Not worth the price. The rooms were small and the staff wasn't very friendly. Expected more from a historic hotel.",
       "author": "Mark Thompson",
-      "date": "2022-12-02T17:57:28.556094Z"
+      "date": "2022-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 5,
@@ -180,7 +185,8 @@
       "rating": 5,
       "comment": "Fantastic hotel! The view was incredible and the staff went above and beyond. Loved the French colonial style.",
       "author": "Laura Green",
-      "date": "2022-10-16T17:57:28.556094Z"
+      "date": "2022-10-16T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 6,
@@ -188,7 +194,8 @@
       "rating": 4,
       "comment": "Very good stay, but the WiFi was a bit slow. The garden view was lovely though.",
       "author": "Brian White",
-      "date": "2023-09-05T17:57:28.556094Z"
+      "date": "2023-09-05T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 7,
@@ -196,7 +203,8 @@
       "rating": 3,
       "comment": "Average experience. Nothing stood out. The room was comfortable but not remarkable.",
       "author": "Emily Davis",
-      "date": "2023-02-13T17:57:28.556094Z"
+      "date": "2023-02-13T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 8,
@@ -204,7 +212,8 @@
       "rating": 4,
       "comment": "Good hotel with nice amenities. Will recommend to friends. The spa was particularly nice.",
       "author": "Anthony Brown",
-      "date": "2023-12-02T17:57:28.556094Z"
+      "date": "2023-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 9,
@@ -212,7 +221,8 @@
       "rating": 2,
       "comment": "The room was noisy and the bed was uncomfortable. Didn't sleep well during my stay.",
       "author": "Sandra Miller",
-      "date": "2022-12-02T17:57:28.556094Z"
+      "date": "2022-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 10,
@@ -220,7 +230,8 @@
       "rating": 5,
       "comment": "Exceptional service and beautiful decor. Highly recommend! The beachfront views were stunning.",
       "author": "David Wilson",
-      "date": "2022-10-16T17:57:28.556094Z"
+      "date": "2022-10-16T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 11,
@@ -228,7 +239,8 @@
       "rating": 4,
       "comment": "Great location and friendly staff. Would stay again. The breakfast buffet was delicious.",
       "author": "Jessica Martinez",
-      "date": "2023-09-05T17:57:28.556094Z"
+      "date": "2023-09-05T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 12,
@@ -236,7 +248,8 @@
       "rating": 3,
       "comment": "The stay was fine, but nothing special. The room was clean but lacked personality.",
       "author": "Michael Hernandez",
-      "date": "2023-02-13T17:57:28.556094Z"
+      "date": "2023-02-13T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 13,
@@ -244,7 +257,8 @@
       "rating": 4,
       "comment": "Lovely hotel with a nice atmosphere. Enjoyed my stay. The pool area was relaxing.",
       "author": "Laura Garcia",
-      "date": "2023-12-02T17:57:28.556094Z"
+      "date": "2023-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 14,
@@ -252,7 +266,8 @@
       "rating": 2,
       "comment": "The facilities were outdated and the service was slow. Expected more for the price.",
       "author": "Robert Martinez",
-      "date": "2022-12-02T17:57:28.556094Z"
+      "date": "2022-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 15,
@@ -260,7 +275,8 @@
       "rating": 5,
       "comment": "Perfect getaway! The spa services were amazing. The beachfront access was a plus.",
       "author": "Hannah Roberts",
-      "date": "2022-10-16T17:57:28.556094Z"
+      "date": "2022-10-16T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 16,
@@ -268,7 +284,8 @@
       "rating": 4,
       "comment": "Really enjoyed my stay, but the pool was a bit crowded. The Victorian decor was charming though.",
       "author": "Joshua Lee",
-      "date": "2023-09-05T17:57:28.556094Z"
+      "date": "2023-09-05T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 17,
@@ -276,7 +293,8 @@
       "rating": 3,
       "comment": "It was an average stay. Not bad, but not great either. The room was clean but nothing special.",
       "author": "Natalie Johnson",
-      "date": "2023-02-13T17:57:28.556094Z"
+      "date": "2023-02-13T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 18,
@@ -284,7 +302,8 @@
       "rating": 4,
       "comment": "Nice place with good service. Would visit again. The location was convenient.",
       "author": "Christopher Taylor",
-      "date": "2023-12-02T17:57:28.556094Z"
+      "date": "2023-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 19,
@@ -292,7 +311,8 @@
       "rating": 2,
       "comment": "Was disappointed with the cleanliness of the room. The staff seemed overwhelmed.",
       "author": "Grace Campbell",
-      "date": "2022-12-02T17:57:28.556094Z"
+      "date": "2022-12-02T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 20,
@@ -300,7 +320,8 @@
       "rating": 5,
       "comment": "Unforgettable experience! The resort was stunning and the activities were fun.",
       "author": "Anna Bell",
-      "date": "2023-11-20T17:57:28.556094Z"
+      "date": "2023-11-20T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 21,
@@ -308,7 +329,8 @@
       "rating": 4,
       "comment": "Loved the beach and the pools. Some facilities were under maintenance but still great.",
       "author": "Sam Smith",
-      "date": "2023-08-15T17:57:28.556094Z"
+      "date": "2023-08-15T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 22,
@@ -316,7 +338,8 @@
       "rating": 3,
       "comment": "Nice resort but a bit pricey for what it offers. The food was good but not exceptional.",
       "author": "Lee Wong",
-      "date": "2023-05-10T17:57:28.556094Z"
+      "date": "2023-05-10T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 23,
@@ -324,7 +347,8 @@
       "rating": 5,
       "comment": "Charming boutique hotel with excellent service. The spa treatments were fantastic.",
       "author": "Emma Stone",
-      "date": "2023-07-22T17:57:28.556094Z"
+      "date": "2023-07-22T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 24,
@@ -332,7 +356,8 @@
       "rating": 4,
       "comment": "Great location in the Old Quarter. Rooms were cozy and well-decorated.",
       "author": "Tom Hardy",
-      "date": "2023-03-30T17:57:28.556094Z"
+      "date": "2023-03-30T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 25,
@@ -340,7 +365,8 @@
       "rating": 5,
       "comment": "Beautiful eco-friendly resort with breathtaking views. Loved every minute of it.",
       "author": "Jessica Alba",
-      "date": "2023-01-12T17:57:28.556094Z"
+      "date": "2023-01-12T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 26,
@@ -348,7 +374,8 @@
       "rating": 4,
       "comment": "Wonderful place, but the transport to and from the hotel was a bit inconvenient.",
       "author": "Chris Hemsworth",
-      "date": "2022-12-01T17:57:28.556094Z"
+      "date": "2022-12-01T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 27,
@@ -356,7 +383,8 @@
       "rating": 5,
       "comment": "Amazing hotel with top-notch service. The rooftop pool was a highlight.",
       "author": "Olivia Benson",
-      "date": "2023-06-18T17:57:28.556094Z"
+      "date": "2023-06-18T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 28,
@@ -364,7 +392,8 @@
       "rating": 4,
       "comment": "Great stay, but the gym was a bit small. Loved the breakfast selection.",
       "author": "Ethan Wright",
-      "date": "2023-11-03T17:57:28.556094Z"
+      "date": "2023-11-03T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 29,
@@ -372,7 +401,8 @@
       "rating": 3,
       "comment": "It was okay. The room was clean but nothing special. Expected more for the price.",
       "author": "Sophia Turner",
-      "date": "2023-01-15T17:57:28.556094Z"
+      "date": "2023-01-15T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 30,
@@ -380,7 +410,8 @@
       "rating": 5,
       "comment": "Wonderful resort! The private beach was beautiful and the staff were very accommodating.",
       "author": "Mason Collins",
-      "date": "2023-03-22T17:57:28.556094Z"
+      "date": "2023-03-22T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 31,
@@ -388,7 +419,8 @@
       "rating": 4,
       "comment": "Really enjoyed my stay. The pool area was great, but the room service was a bit slow.",
       "author": "Sophia Carter",
-      "date": "2023-08-10T17:57:28.556094Z"
+      "date": "2023-08-10T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 32,
@@ -396,7 +428,8 @@
       "rating": 5,
       "comment": "Excellent hotel with great amenities. The spa treatments were very relaxing.",
       "author": "Emma Wilson",
-      "date": "2023-05-12T17:57:28.556094Z"
+      "date": "2023-05-12T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 33,
@@ -404,7 +437,8 @@
       "rating": 4,
       "comment": "Nice place with friendly staff. The breakfast was good but could use more variety.",
       "author": "Liam Brown",
-      "date": "2023-07-25T17:57:28.556094Z"
+      "date": "2023-07-25T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 34,
@@ -412,7 +446,8 @@
       "rating": 5,
       "comment": "Fantastic experience! The rooms were spacious and the view was stunning.",
       "author": "Isabella Moore",
-      "date": "2023-09-15T17:57:28.556094Z"
+      "date": "2023-09-15T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 35,
@@ -420,7 +455,8 @@
       "rating": 4,
       "comment": "Loved the location and the staff was very helpful. The only downside was the noisy street at night.",
       "author": "Benjamin Harris",
-      "date": "2023-11-06T17:57:28.556094Z"
+      "date": "2023-11-06T17:57:28.556094Z",
+      "img": "images/user.png"
     },
     {
       "id": 36,
@@ -428,7 +464,8 @@
       "rating": 3,
       "comment": "Good stay, but the room was a bit outdated. The view made up for it though.",
       "author": "Mia Clark",
-      "date": "2023-04-18T17:57:28.556094Z"
+      "date": "2023-04-18T17:57:28.556094Z",
+      "img": "images/user.png"
     }
   ],
   "presentations": [
@@ -483,11 +520,6 @@
       "abbr": "DO",
       "featured": false,
       "description": "Emily Wang oversees daily operations, ensuring efficient and smooth functioning across all departments. With a focus on quality and service excellence, she ensures our hotel operations run seamlessly."
-    }
-  ],
-  "users": [
-    {
-      "img": "images/user.png"
     }
   ],
   "feedback": [
